@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sistema Portaria</string>
+    <string name="title_activity_act_principal">Portaria</string>
+    <string name="title_section1">Registro</string>
+    <string name="title_section2">Passageiro(s)</string>
+    <string name="title_section3">Destino(s)</string>
+    <string name="title_section4">Vistoria</string>
+    <string name="title_section5">Foto(s)</string>
+    <string name="text_on">Entrada</string>
+    <string name="text_off">Saída</string>
+    <string name="action_settings">XX</string>
+    <string name="title_activity_act_pesquisa_funcionario_visitante">Pesquisa</string>
+    <string name="title_activity_act_pesquisa_veiculo">ActPesquisaVeiculo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_act_pesquisa_destino">ActPesquisaDestino</string>
+    <string name="title_activity_act_pesquisa_entrada">ActPesquisaEntrada</string>
+    <string name="title_activity_act_teste">ActTeste</string>
+
+</resources>
